@@ -1,1 +1,3 @@
-# First commit
+# Staging
+`git add -A -p` 
+
